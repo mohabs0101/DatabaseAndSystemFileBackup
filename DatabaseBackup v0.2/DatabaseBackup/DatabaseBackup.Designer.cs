@@ -339,7 +339,6 @@
             this.btn_backup_filesystem.TabIndex = 11;
             this.btn_backup_filesystem.Text = "Archive (File System)";
             this.btn_backup_filesystem.UseVisualStyleBackColor = true;
-            this.btn_backup_filesystem.Visible = false;
             this.btn_backup_filesystem.Click += new System.EventHandler(this.btn_backup_filesystem_Click);
             // 
             // BTN_StartBackup
@@ -412,7 +411,6 @@
             this.btn_Select_HR_docs.TabIndex = 18;
             this.btn_Select_HR_docs.Text = "HR Documents (File System)";
             this.btn_Select_HR_docs.UseVisualStyleBackColor = true;
-            this.btn_Select_HR_docs.Visible = false;
             this.btn_Select_HR_docs.Click += new System.EventHandler(this.btn_Select_HR_docs_Click);
             // 
             // progressBar1

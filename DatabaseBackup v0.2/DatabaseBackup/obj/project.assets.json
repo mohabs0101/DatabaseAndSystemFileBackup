@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Developing\\windows form\\Database backup system\\DatabaseBackup v0.2\\DatabaseBackup\\DatabaseBackup.csproj",
+      "projectUniqueName": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Github\\DatabaseAndSystemFileBackup\\DatabaseBackup v0.2\\DatabaseBackup\\DatabaseBackup.csproj",
       "projectName": "DatabaseBackup",
-      "projectPath": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Developing\\windows form\\Database backup system\\DatabaseBackup v0.2\\DatabaseBackup\\DatabaseBackup.csproj",
+      "projectPath": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Github\\DatabaseAndSystemFileBackup\\DatabaseBackup v0.2\\DatabaseBackup\\DatabaseBackup.csproj",
       "packagesPath": "C:\\Users\\mohab.MOHAMMED\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Developing\\windows form\\Database backup system\\DatabaseBackup v0.2\\DatabaseBackup\\obj\\",
+      "outputPath": "C:\\Users\\mohab.MOHAMMED\\Desktop\\Github\\DatabaseAndSystemFileBackup\\DatabaseBackup v0.2\\DatabaseBackup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mohab.MOHAMMED\\AppData\\Roaming\\NuGet\\NuGet.Config",
