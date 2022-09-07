@@ -1,0 +1,9 @@
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.csproj.AssemblyReference.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.DatabaseBackup.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.Login.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.Properties.Resources.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.csproj.GenerateResource.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.AssemblyInfoInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.AssemblyInfo.cs
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net5.0-windows\DatabaseBackup.csproj.CoreCompileInputs.cache

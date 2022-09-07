@@ -1,0 +1,54 @@
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.deps.json
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.runtimeconfig.json
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.AssemblyReference.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.DatabaseBackup.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.Login.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.Properties.Resources.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.GenerateResource.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.AssemblyInfoInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.AssemblyInfo.cs
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.CoreCompileInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.CopyComplete
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\refint\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.genruntimeconfig.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\obj\Debug\net6.0-windows\ref\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\DatabaseBackup\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.dll.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.exe
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.dll.config
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.deps.json
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.runtimeconfig.json
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\DatabaseBackup.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.AssemblyReference.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.DatabaseBackup.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.Login.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.Properties.Resources.resources
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.GenerateResource.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.AssemblyInfoInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.AssemblyInfo.cs
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.CoreCompileInputs.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.csproj.CopyComplete
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\refint\DatabaseBackup.dll
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.pdb
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\DatabaseBackup.genruntimeconfig.cache
+C:\Users\mohab.MOHAMMED\Desktop\Developing\windows form\Database backup system\DatabaseBackup v0.2\DatabaseBackup\obj\Debug\net6.0-windows\ref\DatabaseBackup.dll
